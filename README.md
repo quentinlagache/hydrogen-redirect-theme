@@ -3,7 +3,7 @@
 [Download](https://github.com/Shopify/hydrogen-redirect-theme/archive/refs/heads/main.zip)
 
 When launching a Hydrogen storefront, you’ll likely also want to redirect
-any traffic that happens to hit your Liquid store too. This theme allows you
+any traffic that happens to hit your Liquid store too. This theme
 helps you do that while also making sure you retain features like the bot
 detection checkpoint, and discount links.
 
